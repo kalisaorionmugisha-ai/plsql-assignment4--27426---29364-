@@ -316,7 +316,10 @@ END;
 /
 │
 ├── screenshots/
-│   └── <img width="1525" height="1695" alt="testt1" src="https://github.com/user-attachments/assets/3c27d220-8b48-4f24-9c36-dae23836e50d" />
+<img width="1525" height="1695" alt="testt1" src="https://github.com/user-attachments/assets/c3ae3a7d-4f94-464b-b368-56ecc0d4d03c" />
+<img width="1740" height="1785" alt="errors" src="https://github.com/user-attachments/assets/b2d8156f-1984-4412-b9a3-0d5ee3bc35c4" />
+
+
 
 │
 └── docs/
