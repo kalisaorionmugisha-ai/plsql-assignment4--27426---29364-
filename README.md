@@ -8,8 +8,7 @@ The project demonstrates the use of records, collections, implicit cursors, expl
 
 ## Repository Structure
 
-```text
-plsql-assignment4-studentID1-studentID2/
+
 │
 ├── README.md
 ├── .gitignore
